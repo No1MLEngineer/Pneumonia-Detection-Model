@@ -1,0 +1,16 @@
+# Core ML and Data Science Libraries
+tensorflow==2.15.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.1
+Pillow==10.4.0
+
+# Web App and API
+streamlit==1.38.0
+fastapi==0.111.1
+uvicorn==0.30.3
+python-multipart==0.0.9
+
+# Kaggle API for data download
+kaggle==1.6.14
